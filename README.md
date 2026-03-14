@@ -1,44 +1,44 @@
 # Weber Costa
 
-Backend Engineer specialized in building scalable APIs, backend services and cloud-based systems. Since 2018 working with Node.js and TypeScript designing REST APIs, system integrations and scalable architectures for web and mobile applications. My focus is building reliable backend infrastructures that support real business operations with performance, maintainability and clean architecture.
+Engenheiro Backend especializado na construção de APIs escaláveis, serviços backend e sistemas baseados em cloud. Desde 2018 trabalhando com Node.js e TypeScript no desenvolvimento de APIs REST, integrações entre sistemas e arquiteturas escaláveis para aplicações web e mobile. Meu foco é construir infraestruturas backend confiáveis para operações reais de negócio, com performance, manutenibilidade e arquitetura limpa.
 
-## Core Stack
+## Stack Principal
 
-**Backend:** Node.js, TypeScript, REST APIs, System Architecture, Authentication & Authorization  
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis  
-**Cloud & Infrastructure:** AWS, Google Cloud Platform, Docker, CI/CD pipelines  
-**Frontend Integration:** React.js, React Native
+**Backend:** Node.js, TypeScript, APIs REST, Arquitetura de Sistemas, Autenticação e Autorização  
+**Bancos de dados:** MongoDB, PostgreSQL, MySQL, Redis  
+**Cloud e Infraestrutura:** AWS, Google Cloud Platform, Docker, CI/CD  
+**Integração com Frontend:** React.js, React Native
 
-## What I Build
+## O que eu desenvolvo
 
-- Scalable backend services  
-- REST API architectures  
-- Backend systems for web and mobile platforms  
-- Integration between services and external APIs  
-- Automation tools for operational processes  
+- Serviços backend escaláveis  
+- Arquiteturas de APIs REST  
+- Backends para aplicações web e mobile  
+- Integração entre sistemas e APIs externas  
+- Ferramentas de automação para processos operacionais  
 
-## Engineering Principles
+## Princípios de Engenharia
 
-- Clean architecture  
-- Maintainable codebases  
-- API standardization  
-- Performance oriented systems  
-- Scalable infrastructure  
+- Arquitetura limpa  
+- Código manutenível  
+- Padronização de APIs  
+- Sistemas orientados a performance  
+- Infraestrutura escalável  
 
-## Selected Work
+## Projetos em Destaque
 
-**Fleet Monitoring & Logistics System** — Platform designed to automate logistics operations including loading maps, operational monitoring and financial tracking. Reduced operational report generation from **1h30 to less than 5 minutes** through automation.
+**Sistema de Monitoramento de Frota e Logística** — Plataforma criada para automatizar operações logísticas, incluindo mapas de carregamento, monitoramento operacional e acompanhamento financeiro. O sistema reduziu o tempo de geração de relatórios operacionais de **1h30 para menos de 5 minutos** através de automação.
 
-**Resume Generator with ATS Optimization** — Platform designed to generate developer resumes optimized for ATS recruiting systems used by platforms like LinkedIn and Gupy.
+**Gerador de Currículos com Otimização para ATS** — Plataforma desenvolvida para gerar currículos de desenvolvedores otimizados para sistemas de recrutamento (ATS) utilizados por plataformas como LinkedIn e Gupy.
 
-**Backend APIs & System Integrations** — Development of backend services responsible for authentication, business rules, integrations and data processing across multiple systems.
+**APIs Backend e Integrações de Sistemas** — Desenvolvimento de serviços backend responsáveis por autenticação, regras de negócio, integrações entre sistemas e processamento de dados.
 
-## Currently Interested In
+## Interesse Atual
 
-Backend engineering challenges • Scalable system architecture • Cloud infrastructure • Distributed systems
+Desenvolvimento backend • APIs REST • Arquitetura de aplicações • Infraestrutura cloud
 
-## Contact
+## Contato
 
 LinkedIn: https://www.linkedin.com/in/webersilv4  
-Portfolio: https://weber.vercel.app  
+Portfólio: https://weber.vercel.app  
 Email: webercost4@gmail.com
