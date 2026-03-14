@@ -1,35 +1,37 @@
 # Weber Costa
 
-Backend Developer focused on building scalable APIs, backend services and cloud-based systems.
+Backend Engineer specialized in building scalable APIs, backend services and cloud-based systems.
 
-Since 2018 working with backend development using Node.js and TypeScript, designing REST APIs, system integrations and scalable architectures for web and mobile applications.
+Since 2018 working with backend development using Node.js and TypeScript, designing REST APIs, integrations between systems and scalable architectures for web and mobile applications.
+
+My focus is building reliable backend infrastructures that support real business operations with performance, maintainability and clean architecture.
 
 ---
 
-## Core Expertise
+## Core Stack
 
-Backend Development
-• Node.js
-• TypeScript
-• REST APIs
-• System Integrations
-• Backend Architecture
+Backend
+- Node.js
+- TypeScript
+- REST APIs
+- System Architecture
+- Authentication & Authorization
 
 Databases
-• MongoDB
-• PostgreSQL
-• MySQL
-• Redis
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
 
 Cloud & Infrastructure
-• AWS
-• Google Cloud Platform
-• Docker
-• CI/CD pipelines
+- AWS
+- Google Cloud Platform
+- Docker
+- CI/CD pipelines
 
 Frontend Integration
-• React.js
-• React Native
+- React.js
+- React Native
 
 ---
 
@@ -37,32 +39,43 @@ Frontend Integration
 
 • Scalable backend services  
 • REST API architectures  
-• Mobile backend infrastructures  
-• System integrations  
-• Automation tools for business operations  
-
----
-
-## Selected Projects
-
-• Fleet Monitoring System  
-Automation platform for logistics operations, generating loading maps and operational reports automatically.
-
-• Resume Builder with AI  
-System for generating developer resumes optimized for ATS recruiting systems.
-
-• Payment API  
-Backend service for payment processing and transaction handling.
+• Backend systems for web and mobile platforms  
+• Integration between services and external APIs  
+• Automation tools for operational processes  
 
 ---
 
 ## Engineering Principles
 
-• Clean architecture
-• Maintainable code
-• API standardization
-• Performance focused systems
-• Scalable infrastructure
+- Clean architecture
+- Maintainable codebases
+- API standardization
+- Performance oriented systems
+- Scalable infrastructure
+
+---
+
+## Selected Work
+
+### Fleet Monitoring & Logistics System
+Platform designed to automate logistics operations including loading maps, operational monitoring and financial tracking.
+
+This system reduced the time required to generate operational reports from **1 hour and 30 minutes to less than 5 minutes** through automation.
+
+### Resume Generator with ATS Optimization
+Platform designed to generate developer resumes optimized for ATS recruiting systems used by platforms like LinkedIn and Gupy.
+
+### Backend APIs & System Integrations
+Development of backend services responsible for authentication, business rules, integrations and data processing across multiple systems.
+
+---
+
+## Currently Interested In
+
+- Backend engineering challenges
+- Scalable system architecture
+- Cloud infrastructure
+- Distributed systems
 
 ---
 
