@@ -1,41 +1,42 @@
-# Weber Costa
+# Weber Silva Costa
 
-Engenheiro Backend especializado na construção de APIs escaláveis, serviços backend e sistemas baseados em cloud. Desde 2018 trabalhando com Node.js e TypeScript no desenvolvimento de APIs REST, integrações entre sistemas e arquiteturas escaláveis para aplicações web e mobile. Meu foco é construir infraestruturas backend confiáveis para operações reais de negócio, com performance, manutenibilidade e arquitetura limpa.
+Desenvolvedor Backend focado na construção de APIs REST, serviços backend e sistemas web escaláveis. Desde 2018 trabalho com Node.js e TypeScript no desenvolvimento de APIs, integrações entre sistemas e soluções para aplicações web e mobile.
+
+Tenho experiência na criação de serviços backend com foco em organização de código, boas práticas e sistemas confiáveis para operações reais de negócio.
 
 ## Stack Principal
 
-**Backend:** Node.js, TypeScript, APIs REST, Arquitetura de Sistemas, Autenticação e Autorização  
+**Backend:** Node.js, TypeScript, APIs REST, Autenticação e Autorização  
 **Bancos de dados:** MongoDB, PostgreSQL, MySQL, Redis  
 **Cloud e Infraestrutura:** AWS, Google Cloud Platform, Docker, CI/CD  
 **Integração com Frontend:** React.js, React Native
 
 ## O que eu desenvolvo
 
-- Serviços backend escaláveis  
-- Arquiteturas de APIs REST  
-- Backends para aplicações web e mobile  
-- Integração entre sistemas e APIs externas  
-- Ferramentas de automação para processos operacionais  
+- APIs REST para aplicações web e mobile  
+- Serviços backend e integrações entre sistemas  
+- Sistemas de automação para processos operacionais  
+- Backends para aplicações escaláveis  
 
-## Princípios de Engenharia
+## Princípios de desenvolvimento
 
-- Arquitetura limpa  
-- Código manutenível  
+- Organização e clareza de código  
+- Separação de responsabilidades  
 - Padronização de APIs  
 - Sistemas orientados a performance  
-- Infraestrutura escalável  
+- Infraestrutura preparada para crescimento  
 
 ## Projetos em Destaque
 
-**Sistema de Monitoramento de Frota e Logística** — Plataforma criada para automatizar operações logísticas, incluindo mapas de carregamento, monitoramento operacional e acompanhamento financeiro. O sistema reduziu o tempo de geração de relatórios operacionais de **1h30 para menos de 5 minutos** através de automação.
+**Sistema de Monitoramento de Frota e Logística** — Plataforma desenvolvida para automatizar operações logísticas, incluindo mapas de carregamento, monitoramento operacional e acompanhamento financeiro. O sistema reduziu o tempo de geração de relatórios operacionais de **1h30 para menos de 5 minutos** através de automação.
 
-**Gerador de Currículos com Otimização para ATS** — Plataforma desenvolvida para gerar currículos de desenvolvedores otimizados para sistemas de recrutamento (ATS) utilizados por plataformas como LinkedIn e Gupy.
+**Gerador de Currículos com Otimização para ATS** — Plataforma criada para gerar currículos de desenvolvedores otimizados para sistemas de recrutamento (ATS) utilizados por plataformas como LinkedIn e Gupy.
 
 **APIs Backend e Integrações de Sistemas** — Desenvolvimento de serviços backend responsáveis por autenticação, regras de negócio, integrações entre sistemas e processamento de dados.
 
 ## Interesse Atual
 
-Desenvolvimento backend • APIs REST • Arquitetura de aplicações • Infraestrutura cloud
+Desenvolvimento backend • APIs REST • Integração entre sistemas • Cloud
 
 ## Contato
 
