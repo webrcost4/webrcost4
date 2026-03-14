@@ -1,73 +1,73 @@
 # Weber Costa
 
-Desenvolvedor Backend focado na construção de APIs escaláveis, serviços de backend e sistemas baseados em cloud.
+Backend Developer focused on building scalable APIs, backend services and cloud-based systems.
 
-Desde 2018 atuando com desenvolvimento backend utilizando Node.js e TypeScript, projetando APIs REST, integrações de sistemas e arquiteturas escaláveis para aplicações web e mobile.
+Since 2018 working with backend development using Node.js and TypeScript, designing REST APIs, system integrations and scalable architectures for web and mobile applications.
 
 ---
 
-## Principais Competências
+## Core Expertise
 
-**Desenvolvimento Backend**
+Backend Development
 • Node.js
 • TypeScript
-• APIs REST
-• Integrações de Sistemas
-• Arquitetura de Backend
+• REST APIs
+• System Integrations
+• Backend Architecture
 
-**Banco de Dados**
+Databases
 • MongoDB
 • PostgreSQL
 • MySQL
 • Redis
 
-**Cloud & Infraestrutura**
+Cloud & Infrastructure
 • AWS
 • Google Cloud Platform
 • Docker
-• Pipelines de CI/CD
+• CI/CD pipelines
 
-**Integração com Frontend**
+Frontend Integration
 • React.js
 • React Native
 
 ---
 
-## O que eu construo
+## What I Build
 
-• Serviços backend escaláveis
-• Arquiteturas de APIs REST
-• Infraestrutura backend para aplicativos mobile
-• Integrações entre sistemas
-• Ferramentas de automação para operações de negócios
-
----
-
-## Projetos Selecionados
-
-**Sistema de Monitoramento de Frota**
-Plataforma de automação para operações logísticas, gerando mapas de carregamento e relatórios operacionais automaticamente.
-
-**Gerador de Currículo com IA**
-Sistema para geração de currículos de desenvolvedores otimizados para sistemas de recrutamento ATS.
-
-**API de Pagamentos**
-Serviço backend para processamento de pagamentos e gerenciamento de transações.
+• Scalable backend services  
+• REST API architectures  
+• Mobile backend infrastructures  
+• System integrations  
+• Automation tools for business operations  
 
 ---
 
-## Princípios de Engenharia
+## Selected Projects
 
-• Arquitetura limpa
-• Código de fácil manutenção
-• Padronização de APIs
-• Sistemas focados em performance
-• Infraestrutura escalável
+• Fleet Monitoring System  
+Automation platform for logistics operations, generating loading maps and operational reports automatically.
+
+• Resume Builder with AI  
+System for generating developer resumes optimized for ATS recruiting systems.
+
+• Payment API  
+Backend service for payment processing and transaction handling.
 
 ---
 
-## Contato
+## Engineering Principles
+
+• Clean architecture
+• Maintainable code
+• API standardization
+• Performance focused systems
+• Scalable infrastructure
+
+---
+
+## Contact
 
 * LinkedIn: https://www.linkedin.com/in/webersilv4
-* Portfólio: https://weber.vercel.app
+* Portfolio: https://weber.vercel.app
 * Email: [webercost4@gmail.com](mailto:webercost4@gmail.com)
