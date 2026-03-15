@@ -1,6 +1,6 @@
 # Weber Silva Costa
 
-Desenvolvedor Backend focado na construção de APIs REST, serviços backend e sistemas web escaláveis. Desde 2018 trabalho com Node.js e TypeScript no desenvolvimento de APIs, integrações entre sistemas e soluções para aplicações web e mobile.
+Desenvolvedor Backend focado na construção de APIs REST, serviços backend e sistemas web escaláveis. Desde 2018 atuo com desenvolvimento backend, inicialmente com PHP e posteriormente com Node.js e TypeScript no desenvolvimento de APIs, integrações entre sistemas e soluções para aplicações web e mobile.
 
 Tenho experiência na criação de serviços backend com foco em organização de código, boas práticas e sistemas confiáveis para operações reais de negócio.
 
